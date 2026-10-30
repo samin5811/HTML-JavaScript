@@ -8,7 +8,7 @@ function getProbability(dice_amount, target_sum){
     for (let i = 1; i <= repetitions; i++){
         let dice_sum = 0
         for (let ii = 1; ii <= dice_amount; ii++){
-            dice = Math.floor(Math.random() * (7 - 1) + 1);
+            dice = Math.floor(Math.random() * (7 - 1) + 1)
             dice_sum += dice
         }
         if (dice_sum == target_sum){
