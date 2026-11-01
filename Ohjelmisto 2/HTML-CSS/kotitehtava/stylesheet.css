@@ -1,11 +1,114 @@
-body {
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: burlywood;
+    padding-bottom: 10%;
+}
+
+.page1 {
+        width: 80%;
     background-color: gray;
+    margin: auto;
+    margin-bottom: 5%;
+    background: linear-gradient(to bottom, gray 0%, gray 80%,rgba(255,255,255,0) 100%)
 }
-h1 {
+
+.page2 {
+        width: 80%;
+    background-color: gray;
+    margin: auto;
+    margin-bottom: 5%;
+    background: linear-gradient(to bottom, gray 0%, gray 80%,rgba(255,255,255,0) 100%)
+}
+
+.page3 {
+        width: 80%;
+    background-color: gray;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.navbar {
+    display: flex;
+    height: 4rem;
+    justify-content: space-between;
+    align-items: center;
+    background-color: khaki;
+}
+
+.logo {
+    display: flex;
+    height: 100%;
+    width: 10%;
+    align-items: center;
+    justify-content: center;
+    background-color: gold;
+}
+
+.navigation {
+    display: flex;
+    gap: 4rem;
+    padding-right: 5%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10%;
     text-align: center;
-    padding-top: 25%;
-    background-color: lightcyan;
 }
-table {
-    background-color: lightpink;
+
+.centertext {
+    width: 70%;
+}
+
+img {
+  max-width: 100%;
+  height: 20rem;
+}
+
+.imgtext {
+    color: gray
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+.products {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    padding-right: 6%;
+    padding-left: 6%;
+}
+
+.product {
+    padding: 5%;
+    background-color: lightgreen;
+}
+
+.maintext{
+    width: 100%;
+}
+
+.contact {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 5%;
+}
+
+.map {
+    padding-right: 5%;
+    padding-top: 10%;
+    padding-bottom: 40%;
 }
