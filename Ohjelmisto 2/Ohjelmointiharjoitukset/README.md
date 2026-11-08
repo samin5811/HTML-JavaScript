@@ -15,3 +15,15 @@ Tehdyt tehtävät:
 **Yhteensä 11p**
 
 ---
+
+JS-moduuli 3
+
+Tehdyt tehtävät: 
+
+- Tehtävä 9: 3p
+- Tehtävä 10: 8p
+
+**Yhteensä 11p**
+
+---
+
