@@ -27,3 +27,11 @@ Tehdyt tehtävät:
 
 ---
 
+JS-moduuli 4
+
+Tehdyt tehtävät:
+
+- Tehtävä 8: 5p
+. Tehtävä 14: 6p
+
+**Yhteensä 11p**
