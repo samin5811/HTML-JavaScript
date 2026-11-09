@@ -4,7 +4,7 @@ Ohjelmisto 2 -ohjelmointitehtävät
 
 JS-moduulit 1 ja 2
 
-[Linkki JS-moduulin 1 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/
+[Linkki JS-moduulin 1 ja 2 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/moduuli1ja2/
 
 Tehdyt tehtävät:
 
@@ -18,6 +18,8 @@ Tehdyt tehtävät:
 
 JS-moduuli 3
 
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/moduuli3/
+
 Tehdyt tehtävät: 
 
 - Tehtävä 9: 3p
@@ -28,6 +30,8 @@ Tehdyt tehtävät:
 ---
 
 JS-moduuli 4
+
+[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/moduuli4/
 
 Tehdyt tehtävät:
 
