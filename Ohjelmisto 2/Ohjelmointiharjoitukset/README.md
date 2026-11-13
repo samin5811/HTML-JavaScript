@@ -39,3 +39,9 @@ Tehdyt tehtävät:
 - Tehtävä 14: 6p
 
 **Yhteensä 11p**
+
+---
+
+Python Flask Server
+
+[Linkki Python Flask Server kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/python_flask_server/
