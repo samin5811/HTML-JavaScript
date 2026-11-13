@@ -45,3 +45,9 @@ Tehdyt tehtävät:
 Python Flask Server
 
 [Linkki Python Flask Server kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/python_flask_server/
+
+Tehdyt tehtävät:
+
+- Tehtävä 2: 10p
+
+  **Yhteensä 10p**
