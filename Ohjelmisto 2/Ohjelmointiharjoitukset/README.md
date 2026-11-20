@@ -31,7 +31,7 @@ Tehdyt tehtävät:
 
 JS-moduuli 4
 
-[Linkki JS-moduulin 3 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/moduuli4/
+[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/moduuli4/
 
 Tehdyt tehtävät:
 
@@ -51,3 +51,17 @@ Tehdyt tehtävät:
 - Tehtävä 2: 10p
 
   **Yhteensä 10p**
+
+---
+
+JS-moduuli 5
+
+[Linkki JS-moduulin 5 kansiooni users.metropolia.fi-palvelussa] #https://users.metropolia.fi/~samimalm/Ohjelmointiharjoitukset/moduuli5/
+
+Tehdyt tehtävät:
+
+- Tehtävä 1: 2p
+- Tehtävä 2: 3p
+- Tehtävä 3: 7p
+
+**Yhteensä 12**
